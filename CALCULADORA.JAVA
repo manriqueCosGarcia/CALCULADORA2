@@ -1,3 +1,12 @@
-MI APORTE FUE EL HOLA MUNDO, DEL ARCHIVO CALCULADORA.JAVA
+package com.mycompany.entornos;
 
-cambio para el ejercicio 5
+/**
+ *
+ * @author Alumnado
+ */
+public class Calculadora {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
